@@ -52,4 +52,4 @@ Follow these steps to set up and run the project:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/flowise-ai-quarterly-email-generator.git
+git clone https://github.com/manissssha1-pixel/flowise-cold-email-generator.git
